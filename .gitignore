@@ -1,0 +1,83 @@
+# Kotlin/Java
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+*.hprof
+*.log
+
+# Gradle
+.gradle/
+build/
+!gradle-wrapper.jar
+gradle-app.setting
+gradle-wrapper.properties
+
+# Android
+*.apk
+*.ap_
+*.dex
+*.so
+*.log
+*.keystore
+captures/
+output.json
+local.properties
+.idea/
+*.hprof
+
+# IntelliJ
+*.iws
+*.ipr
+*.iml
+.idea/
+
+# Xcode
+build/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+xcuserdata/
+*.xcuserstate
+*.moved-aside
+DerivedData/
+*.xcworkspace
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+
+# iOS
+Pods/
+Podfile.lock
+*.xcworkspace
+*.xcuserdata
+
+# Desktop (Compose)
+out/
+bin/
+*.exe
+*.dll
+*.app
+*.dmg
+
+# Ktor Client Cache
+.cio/
+ktor.log
+
+# Misc
+*.swp
+*~
+*.tmp
+*.bak
+
+# Environment variables or credentials
+.env
+*.env
