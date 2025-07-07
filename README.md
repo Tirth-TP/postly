@@ -32,8 +32,7 @@ Here’s a clean and professional `README.md` file for your **Postly** app that 
 
 ---
 
-## 📂 Modules Structure
-
+## 📁 Project Structure
 
 ```
 
@@ -44,7 +43,7 @@ postly/
 ├── iosMain/        # iOS-specific code
 
 
-```
+````
 
 ---
 
