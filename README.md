@@ -17,7 +17,7 @@
 
 ### 🔸 Frontend (KMP App)
 - [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform.html)
-- [Jetpack Compose](https://developer.android.com/jetpack/compose) (Android/Desktop)
+- [Jetpack Compose](https://developer.android.com/jetpack/compose) (Android/Ios/Desktop)
 - [Ktor Client](https://ktor.io/docs/client.html)
 - [Koin](https://insert-koin.io/) or [Hilt](https://dagger.dev/hilt/) for [Dependency Injection (DI)](https://en.wikipedia.org/wiki/Dependency_injection)
 - [Coroutines](https://kotlinlang.org/docs/coroutines-overview.html) for async operations
