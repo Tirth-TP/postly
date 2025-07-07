@@ -31,10 +31,12 @@
 ```
 
 postly/
-├── androidMain/    # Android-specific code
-├── commonMain/     # Shared KMP business logic (ui, resources, network, models, viewmodels)
-├── desktopMain/    # Desktop (Compose) app
-├── iosMain/        # iOS-specific code
+└── commonApp/
+    └── src/
+        ├── androidMain/
+        ├── commonMain/
+        ├── desktopMain/
+        └── iosMain/
 
 
 ````
