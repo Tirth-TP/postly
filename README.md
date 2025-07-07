@@ -16,11 +16,12 @@
 ## 📦 Tech Stack
 
 ### 🔸 Frontend (KMP App)
-- [Kotlin Multiplatform](w)
-- [Jetpack Compose](w) (Android/Desktop)
-- [Ktor Client](w)
-- [Koin](w) or [Hilt](w) for DI (depending on your setup)
-- [Coroutines](w) for async operations
+- [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform.html)
+- [Jetpack Compose](https://developer.android.com/jetpack/compose) (Android/Desktop)
+- [Ktor Client](https://ktor.io/docs/client.html)
+- [Koin](https://insert-koin.io/) or [Hilt](https://dagger.dev/hilt/) for [Dependency Injection (DI)](https://en.wikipedia.org/wiki/Dependency_injection)
+- [Coroutines](https://kotlinlang.org/docs/coroutines-overview.html) for async operations
+
 
 ### 🔹 Backend (Spring Boot + Ktor + MongoDB)
 - API repository: [social_posts](https://github.com/Tirth-TP/social_posts)
