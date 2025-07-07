@@ -54,7 +54,7 @@ postly/
 ### Clone the Project
 
 ```bash
-git clone https://github.com/tirth/postly.git
+git clone https://github.com/Tirth-TP/postly.git
 cd postly
 ````
 
