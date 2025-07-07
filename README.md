@@ -1,8 +1,3 @@
-Here’s a clean and professional `README.md` file for your **Postly** app that uses **Kotlin Multiplatform (KMP)** with Android, iOS, and Desktop support, and integrates your backend API from the GitHub link.
-
----
-
-```markdown
 # 📝 Postly - Kotlin Multiplatform App
 
 **Postly** is a simple cross-platform application built using **Kotlin Multiplatform**. It allows users to register/login and create, delete, and fetch posts. The app targets **Android**, **iOS**, and **Desktop** platforms.
@@ -33,7 +28,6 @@ Here’s a clean and professional `README.md` file for your **Postly** app that 
 ---
 
 ## 📁 Project Structure
-
 ```
 
 postly/
